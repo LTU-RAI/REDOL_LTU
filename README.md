@@ -28,7 +28,7 @@ The following variables can be configured in `main.m`.
 Set the total number of operating vehicles:
 
 ```matlab
-numVehicles = 1;
+numVehicles = 3;
 ```
 
 ### Base-Station Location
